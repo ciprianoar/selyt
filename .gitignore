@@ -1,3 +1,5 @@
-copia
-.obsidian
-html5up-editorial.zip
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
